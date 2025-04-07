@@ -1,2 +1,4 @@
 # Flix-san-LLM
-Flix adalah alat AI yang menggunakan model bahasa besar (LLM) untuk menghasilkan teks kreatif seperti puisi atau cerita, serta menghasilkan gambar sederhana.
+Model Ai sederhana yang masih dalam proses trainning, versi 0.0.2
+Jika anda ingin mengunduh file modelnya silahkan hubungi saya lewat email: alfiandecker2@gmail.com atau lcfhershell@tutanota.com
+
